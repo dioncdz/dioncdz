@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... The Odin Project Full Stack Javascript
 - 🌱 I’m currently learning ... JavaScript
 
-## 📫 How to reach me: ... 
+#### 📫 How to reach me: ... 
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
