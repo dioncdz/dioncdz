@@ -3,7 +3,7 @@
 ## I'm Dion. I'm a Full-time flight dispatcher learning web development. Feel free to check some of my works here.
 
 - 🔭 I’m currently working on <strong>The Odin Project Full Stack Javascript</strong>
-- 🌱 I’m currently learning strong>JavaScript</strong> 
+- 🌱 I’m currently learning <strong>JavaScript</strong> 
 
 #### 📫 How to reach me: ... 
 
