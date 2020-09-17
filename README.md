@@ -9,11 +9,14 @@
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
+👔 [codewars][codewars] **|** 
+
 
 [twitter]: https://twitter.com/_dioncdz
 [instagram]: https://instagram.com/jong.snow
 [linkedin]: https://www.linkedin.com/in/dion-cadiz-jr-a9aa429b/
+[codewars]: https://www.codewars.com/users/dioncdz/
 
 <!--
 **dioncdz/dioncdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
